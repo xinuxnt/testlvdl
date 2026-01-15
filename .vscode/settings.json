@@ -1,0 +1,7 @@
+{
+    "idf.portWin": "COM6",
+    "idf.flashType": "UART",
+    "idf.espIdfPathWin": "C:\\Users\\dell\\esp\\v5.5.1\\esp-idf",
+    "idf.toolsPathWin": "C:\\Users\\dell\\.espressif",
+    "idf.pythonInstallPath": "C:\\Users\\dell\\.espressif\\tools\\idf-python\\3.11.2\\python.exe"
+}

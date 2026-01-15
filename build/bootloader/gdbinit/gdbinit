@@ -1,0 +1,2 @@
+source C:/Users/dell/Documents/esp-idf-examples/lvgl_demo_v9/build/bootloader/gdbinit/symbols
+source C:/Users/dell/Documents/esp-idf-examples/lvgl_demo_v9/build/bootloader/gdbinit/connect
